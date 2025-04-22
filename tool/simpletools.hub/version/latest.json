@@ -1,0 +1,10 @@
+{
+  "toolId": "simpletools.hub",
+  "version": 0,
+  "downloads": [
+    {
+      "platform": "win-x64",
+      "url": "/tool/simpletools.hub/download/latest-win-x64.exe"
+    }
+  ]
+}
