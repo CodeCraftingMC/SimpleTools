@@ -5,6 +5,14 @@
     {
       "platform": "win-x64",
       "url": "https://github.com/CodeCraftingMC/SimpleTools/releases/download/simpletools.hub-0/simpletools.hub_0_win-x64.exe"
-    }
+    },
+    {
+      "platform": "osx-x64",
+      "url": "https://github.com/CodeCraftingMC/SimpleTools/releases/download/simpletools.hub-0/simpletools.hub_0_osx-x64.exe"
+    },
+    {
+      "platform": "linux-x64",
+      "url": "https://github.com/CodeCraftingMC/SimpleTools/releases/download/simpletools.hub-0/simpletools.hub_0_linux-x64.exe"
+    },
   ]
 }
