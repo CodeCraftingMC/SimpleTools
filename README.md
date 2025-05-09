@@ -59,4 +59,4 @@ The project is currently closed source but I'm planing to release the source cod
 
 ## 📜 License
 
-All tools in this repository are freely usable for any purpose, modification, and distribution, as long as they are not sold or bundled with malware. Decompilation is specifically permitted for educational and customization purposes.
+All tools in this repository are freely usable for any purpose, modification, and distribution, as long as they are not sold or used for malicious purposes. Decompilation is specifically permitted for educational and customization purposes.
