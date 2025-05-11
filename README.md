@@ -51,6 +51,15 @@ Welcome to the **SimpleTools** repository – a collection of light-weight utili
 
 ---
 
+### 🔐 [SimpleTools.FileCryptor](https://github.com/CodeCraftingMC/SimpleTools/releases/tag/simpletools.filecryptor-0)
+
+- **OS:** Windows, Linux, macOS
+- **Architecture:** x64
+- **Version:** V0
+- **Description:** Securely encrypt entire directories with a password using AES encryption.
+
+---
+
 ## 💡 Contribution
 
 The project is currently closed source but I'm planing to release the source code sometime in the future. As of now, feel free to decomplie or even modify the code and share some feedback.
