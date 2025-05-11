@@ -1,0 +1,18 @@
+[
+  {
+    "toolId": "simpletools.updater.exe",
+    "fileName": "SimpleTools.Updater"
+  },
+  {
+    "toolId": "simpletools.hub.exe",
+    "fileName": "SimpleTools.Hub"
+  },
+  {
+    "toolId": "simpletools.dctools.exe",
+    "fileName": "SimpleTools.DCTools"
+  },
+  {
+    "toolId": "simpletools.filecryptor.exe",
+    "fileName": "SimpleTools.FileCryptor"
+  }
+]
